@@ -115,13 +115,16 @@ POST /query
 ## Screenshots
 
 ### 1. Swagger UI
-![Swagger](screenshots/swagger.png)
+<img width="1841" height="914" alt="Screenshot 2026-04-06 001723" src="https://github.com/user-attachments/assets/80e32959-799a-4e2b-ad81-9c5182f30238" />
+
 
 ### 2. Health Check
-![Health](screenshots/health.png)
+<img width="1829" height="731" alt="Screenshot 2026-04-06 001742" src="https://github.com/user-attachments/assets/9699ce68-1602-493e-8b2b-785a619d6de2" />
+
 
 ### 3. PDF Ingest Success
-![Ingest](screenshots/ingest.png)
+<img width="1567" height="941" alt="Screenshot 2026-04-06 001913" src="https://github.com/user-attachments/assets/7a21bbb3-fc4e-4d35-929f-aa27552a98a7" />
+
 
 ### 4. Text Query Result
 ![Text Query](screenshots/text-query.png)

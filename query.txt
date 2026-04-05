@@ -1,0 +1,4 @@
+@router.post("/query")
+def query(request: QueryRequest):
+    result = query_rag(request.question)
+    return result
